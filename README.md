@@ -1,3 +1,4 @@
+## Welcome!
 Hello and welcome to my profile! My name is Lucas Mateski and I am looking for a position in Data Analytics
 
 This is where I intend to keep an updated portfolio of my work, so feel free to explore!
